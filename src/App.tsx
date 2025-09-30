@@ -1,4 +1,7 @@
-function App(){
-  return <p>Hola mundo</p>
+import Titulo from './Titulo';
+
+
+function App() {
+ return <Titulo></Titulo>//<Titulo />
 }
 export default App;
